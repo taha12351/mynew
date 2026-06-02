@@ -1,0 +1,10 @@
+Cairo font load error: ENOENT: no such file or directory, lstat '/home/runner/workspace/Cairo.ttf'
+◇ injected env (2) from .env [2m// tip: ⌘ custom filepath { path: '/custom/path/.env' }[0m
+💎 Diamond Casino website initialized
+🌐 Web server started on port 3000
+[AdminGuard] Logged in as Super Control#1652
+Logged in as Diamond Casino#4520!
+Diamond Casino#4520 IS Ready!
+DATABASE CONNECT
+(node:1999) DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)

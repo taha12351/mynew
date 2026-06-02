@@ -1,0 +1,130 @@
+[
+  {
+    "ts": 1780094573980,
+    "action": "backup",
+    "authorTag": "igd8",
+    "authorId": "1206272245417246750",
+    "guildId": "1299435105395277864",
+    "details": "1299435105395277864-1780094573976.json"
+  },
+  {
+    "ts": 1779019255088,
+    "action": "restore_channels",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1247880077270581300",
+    "details": "1299435105395277864-1779018548763.json"
+  },
+  {
+    "ts": 1779018548763,
+    "action": "backup",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1299435105395277864",
+    "details": "1299435105395277864-1779018548763.json"
+  },
+  {
+    "ts": 1779018462604,
+    "action": "full_restore",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1247880077270581300",
+    "details": "1310292274801938553-1779018325970.json"
+  },
+  {
+    "ts": 1779018461858,
+    "action": "full_restore",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1247880077270581300",
+    "details": "1310292274801938553-1779018325970.json"
+  },
+  {
+    "ts": 1779018325973,
+    "action": "backup",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "1310292274801938553-1779018325970.json"
+  },
+  {
+    "ts": 1778954391051,
+    "action": "clear",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "مسح 50 رسالة في transcript"
+  },
+  {
+    "ts": 1778951928930,
+    "action": "clear",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "مسح 50 رسالة في transcript"
+  },
+  {
+    "ts": 1778951919364,
+    "action": "clear",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "مسح 100 رسالة في transcript"
+  },
+  {
+    "ts": 1778941799446,
+    "action": "dm",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "DM إلى t_r1#0"
+  },
+  {
+    "ts": 1778941780352,
+    "action": "botstatus",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "حالة: LISTENING Diamond Casino"
+  },
+  {
+    "ts": 1778941765275,
+    "action": "botstatus",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "حالة: WATCHING Diamond Casino"
+  },
+  {
+    "ts": 1778941763639,
+    "action": "botstatus",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "حالة: WATCHING t"
+  },
+  {
+    "ts": 1778941759996,
+    "action": "botstatus",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "حالة: WATCHING Diamond Casino"
+  },
+  {
+    "ts": 1778941745251,
+    "action": "botstatus",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "حالة: PLAYING Safe"
+  },
+  {
+    "ts": 1778941708093,
+    "action": "nuke",
+    "authorTag": "igd8#0",
+    "authorId": "1206272245417246750",
+    "guildId": "1310292274801938553",
+    "details": "nuke قناة تيكتأت-الإدارة"
+  }
+]

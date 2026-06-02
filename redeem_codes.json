@@ -1,0 +1,44 @@
+{
+    "ZSVSX4U4": {
+        "expiration_time": "2025-01-26T16:58:15.764Z",
+        "usage_limit": 5,
+        "used": 0,
+        "reward_amount": 100,
+        "redeemed_users": []
+    },
+    "Z0CQS4TZ": {
+        "expiration_time": "2025-01-26T17:09:50.771Z",
+        "usage_limit": 5,
+        "used": 0,
+        "reward_amount": 100,
+        "redeemed_users": []
+    },
+    "test": {
+        "expiration_time": "2026-05-04T16:47:58.695Z",
+        "usage_limit": 1,
+        "used": 0,
+        "reward_amount": 10,
+        "redeemed_users": []
+    },
+    "testt": {
+        "expiration_time": "2026-05-04T16:48:23.752Z",
+        "usage_limit": 1,
+        "used": 0,
+        "reward_amount": 10000000,
+        "redeemed_users": []
+    },
+    "taha": {
+        "expiration_time": "2026-05-23T00:18:27.713Z",
+        "usage_limit": 10,
+        "used": 0,
+        "reward_amount": 1,
+        "redeemed_users": []
+    },
+    "testttt": {
+        "expiration_time": "2026-05-23T00:19:14.036Z",
+        "usage_limit": 10,
+        "used": 0,
+        "reward_amount": 100000,
+        "redeemed_users": []
+    }
+}

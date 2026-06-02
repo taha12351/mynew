@@ -1,0 +1,30 @@
+[
+  {
+    "id": "classic",
+    "name": "بيانو كلاسيكي",
+    "emoji": "🎹",
+    "bpm": 100,
+    "audioSrc": null
+  },
+  {
+    "id": "night",
+    "name": "ليلة هادئة",
+    "emoji": "🌙",
+    "bpm": 75,
+    "audioSrc": null
+  },
+  {
+    "id": "fire",
+    "name": "نار وإثارة",
+    "emoji": "🔥",
+    "bpm": 150,
+    "audioSrc": null
+  },
+  {
+    "id": "Pool",
+    "name": "In The pool",
+    "emoji": "🌊",
+    "bpm": 73,
+    "audioSrc": "https://cdn.discordapp.com/attachments/1505566370253766818/1509258755978821682/chain.mp3?ex=6a188640&is=6a1734c0&hm=318c6cb4aae0a22d4434985d36868fb9ecc24ce5fa9f3a74172b887818db4c05&"
+  }
+]

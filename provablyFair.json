@@ -1,0 +1,70 @@
+{
+  "serverSeed": "bbdb95afa9f945faeaa90be9a217e654398169185456a6ed8acc0ae755e2efe5",
+  "serverSeedHash": "62f676e8e17e9aad44069ece2c705df9b82c48133976e359b13bcbfb6c89ab2e",
+  "createdAt": 1779064309058,
+  "history": [
+    {
+      "serverSeed": "0253d847580f4029e2c839f35be59e64cbc46db56309fa9c1e79344fcfd1e72f",
+      "serverSeedHash": "ed7128c77e1d72edff05fdd795d2c960eaf414878a40dd4748ab08e504359344",
+      "rotatedAt": 1779064309058
+    }
+  ],
+  "users": {
+    "996886359996375170": {
+      "clientSeed": "ae9e916416304dea",
+      "nonce": 9
+    },
+    "1206272245417246750": {
+      "clientSeed": "cf9e5019e188f36a",
+      "nonce": 71
+    },
+    "963044882254024724": {
+      "clientSeed": "a4269c5ac0d618b6",
+      "nonce": 7
+    },
+    "1234461064851226675": {
+      "clientSeed": "217f38dd7633932c",
+      "nonce": 1
+    },
+    "1457423610783334446": {
+      "clientSeed": "1ce924cfeefefa8b",
+      "nonce": 5
+    },
+    "1459124311590965427": {
+      "clientSeed": "8a8b314adc2680e8",
+      "nonce": 15
+    },
+    "1379042582281195582": {
+      "clientSeed": "598e9449fbd684b6",
+      "nonce": 16
+    },
+    "831872013798080562": {
+      "clientSeed": "64467b21d5183e3a",
+      "nonce": 1
+    },
+    "1222286009249693768": {
+      "clientSeed": "8a5a0732837c5eba",
+      "nonce": 3
+    },
+    "1391817451443978340": {
+      "clientSeed": "874edd8eeee2704a",
+      "nonce": 15
+    },
+    "1407098754430926868": {
+      "clientSeed": "ab03f0ec0515c512",
+      "nonce": 28
+    },
+    "1211441870484279347": {
+      "clientSeed": "eec909b516be9155",
+      "nonce": 1
+    },
+    "1498300197175033979": {
+      "clientSeed": "130166b0fa4deeab",
+      "nonce": 4
+    },
+    "1431686850766180554": {
+      "clientSeed": "10bfb4b91d176fcb",
+      "nonce": 1
+    }
+  }
+}

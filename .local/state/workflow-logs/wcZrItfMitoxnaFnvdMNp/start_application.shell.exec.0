@@ -1,0 +1,13 @@
+Cairo font load error: ENOENT: no such file or directory, lstat '/home/runner/workspace/Cairo.ttf'
+◇ injected env (2) from .env [2m// tip: ⌘ override existing { override: true }[0m
+💎 Diamond Casino website initialized
+🌐 Web server started on port 3000
+[AdminGuard] Logged in as Super Control#1652
+DATABASE CONNECT
+Logged in as Diamond Casino#4520!
+Diamond Casino#4520 IS Ready!
+[chesst_accept] triggered by 1206272245417246750 msgId=1505575232830832681
+[chesst_accept] wrong user 1206272245417246750 expected 1211441870484279347
+[chesst_accept] triggered by 1211441870484279347 msgId=1505575232830832681
+[chesst_accept] ChessGame: status=waiting
+[chesst_accept] editing original message with game start embed

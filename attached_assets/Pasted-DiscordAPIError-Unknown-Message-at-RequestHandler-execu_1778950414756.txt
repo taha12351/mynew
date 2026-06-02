@@ -1,0 +1,32 @@
+DiscordAPIError: Unknown Message
+    at RequestHandler.execute (/home/runner/workspace/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RequestHandler.push (/home/runner/workspace/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async MessageManager._fetchId (/home/runner/workspace/node_modules/discord.js/src/managers/MessageManager.js:221:18) {
+  method: 'get',
+  path: '/channels/1321947634188947621/messages/1505243753076625461',
+  code: 10008,
+  httpStatus: 404,
+  requestData: { json: undefined, files: [] }
+}
+(node:5799) DeprecationWarning: Passing strings for MessageEmbed#setAuthor is deprecated. Pass a sole object instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[parkour_accept] triggered by 1211441870484279347 msgId=1505248260216979486
+[parkour_accept] ParkourGame: status=waiting
+[parkour_accept] deleting original message and sending new embed
+[parkour_accept] channel.send err: Message content must be a non-empty string.
+DiscordAPIError: Unknown Message
+    at RequestHandler.execute (/home/runner/workspace/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RequestHandler.push (/home/runner/workspace/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async MessageManager._fetchId (/home/runner/workspace/node_modules/discord.js/src/managers/MessageManager.js:221:18) {
+  method: 'get',
+  path: '/channels/1321947634188947621/messages/1505248260216979486',
+  code: 10008,
+  httpStatus: 404,
+  requestData: { json: undefined, files: [] }
+}
+[parkour_accept] triggered by 1211441870484279347 msgId=1505249518545928283
+[parkour_accept] ParkourGame: status=waiting
+[parkour_accept] deleting original message and sending new embed
+[parkour_accept] channel.send err: Message content must be a non-empty string.

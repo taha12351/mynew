@@ -1,0 +1,23 @@
+◇ injected env (2) from .env [2m// tip: ⌁ auth for agents [www.vestauth.com][0m
+node:internal/modules/cjs/loader:1210
+  throw err;
+  ^
+
+Error: Cannot find module 'openai'
+Require stack:
+- /home/runner/workspace/diamondAI.js
+[90m    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1038:27)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1289:19)[39m
+[90m    at require (node:internal/modules/helpers:182:18)[39m
+    at Object.<anonymous> [90m(/home/runner/workspace/[39mdiamondAI.js:6:17[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1521:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1266:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1091:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)[39m {
+  code: [32m'MODULE_NOT_FOUND'[39m,
+  requireStack: [ [32m'/home/runner/workspace/diamondAI.js'[39m ]
+}
+
+Node.js v20.20.0

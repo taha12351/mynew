@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bank_1779485460926_rjueu8",
+    "name": "Bank",
+    "bankUserId": "1208842012464390226",
+    "token": "MTIwODg0MjAxMjQ2NDM5MDIyNg.G8KqMe.x6b6UEoN17udFnh_6fhD1v9AoimmuFRe2Srj4o",
+    "serverIds": [
+      "1303780835970777211"
+    ],
+    "active": true,
+    "addedAt": 1779485460926
+  },
+  {
+    "id": "bank_1779532246687_5ijlzr",
+    "name": "Bank",
+    "bankUserId": "1211441870484279347",
+    "token": "MTIxMTQ0MTg3MDQ4NDI3OTM0Nw.GEeV_Z.cr4KUYLFQ6QUX9NP0fNLbGpT1mKH90wRqiavxA",
+    "serverIds": [
+      "881996430343020665",
+      "1303780835970777211"
+    ],
+    "channelId": null,
+    "active": true,
+    "addedAt": 1779532246687
+  }
+]

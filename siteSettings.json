@@ -1,0 +1,149 @@
+{
+  "seasonName": "⚔️ Re:Zero Season",
+  "seasonEnd": "2026-09-01T00:00",
+  "seasonDescription": "The world has been reset. Gather characters from another world and harness their powers in the casino!",
+  "OWNER_IDS": "1206272245417246750",
+  "discordInviteCode": "EsEzRNTyTD",
+  "guildId": "1310292274801938553",
+  "announcementBanner": "luckbanner.png",
+  "soundEnabled": true,
+  "battlePassActive": true,
+  "activeTheme": "rezero",
+  "battlePassTiers": [
+    {
+      "tier": 1,
+      "xpRequired": 1000,
+      "reward": 500,
+      "label": "Isekai Arrival",
+      "icon": "🌀"
+    },
+    {
+      "tier": 2,
+      "xpRequired": 3000,
+      "reward": 1000,
+      "label": "Lugnica Newcomer",
+      "icon": "🏰"
+    },
+    {
+      "tier": 3,
+      "xpRequired": 7500,
+      "reward": 2500,
+      "label": "Emilia's Favor",
+      "icon": "❄️"
+    },
+    {
+      "tier": 4,
+      "xpRequired": 15000,
+      "reward": 5000,
+      "label": "Rem's Care",
+      "icon": "💙"
+    },
+    {
+      "tier": 5,
+      "xpRequired": 30000,
+      "reward": 10000,
+      "label": "Beatrice's Library",
+      "icon": "📚"
+    },
+    {
+      "tier": 6,
+      "xpRequired": 55000,
+      "reward": 20000,
+      "label": "Witch's Blessing",
+      "icon": "🖤"
+    },
+    {
+      "tier": 7,
+      "xpRequired": 85000,
+      "reward": 35000,
+      "label": "Spirit Knight",
+      "icon": "⚜️"
+    },
+    {
+      "tier": 8,
+      "xpRequired": 125000,
+      "reward": 50000,
+      "label": "Royal Selection",
+      "icon": "👑"
+    },
+    {
+      "tier": 9,
+      "xpRequired": 175000,
+      "reward": 75000,
+      "label": "Great Spirit Bond",
+      "icon": "✨"
+    },
+    {
+      "tier": 10,
+      "xpRequired": 250000,
+      "reward": 150000,
+      "label": "Return by Death",
+      "icon": "⚔️"
+    }
+  ],
+  "coinShopItems": [
+    {
+      "id": "vip_role",
+      "label": "VIP Role",
+      "description": "Get the VIP role in the Discord server for 7 days",
+      "price": 50000,
+      "roleId": "",
+      "emoji": "⭐"
+    },
+    {
+      "id": "gold_role",
+      "label": "Gold Member Role",
+      "description": "Get the Gold Member role for 30 days",
+      "price": 200000,
+      "roleId": "",
+      "emoji": "🥇"
+    },
+    {
+      "id": "casino_elite",
+      "label": "Casino Elite Role",
+      "description": "Exclusive Casino Elite role - permanent",
+      "price": 1000000,
+      "roleId": "",
+      "emoji": "💎"
+    }
+  ],
+  "gameFeed": [],
+  "themes": {
+    "original": {
+      "key": "original",
+      "name": "السمة الأصلية",
+      "primary": "#0ea5e9",
+      "accent": "#8b5cf6",
+      "bgStart": "#0b1020",
+      "bgEnd": "#121a2f",
+      "card": "#151d2f",
+      "text": "#e5e7eb",
+      "bannerFile": "luckbanner.png",
+      "spinPage": "none"
+    },
+    "rezero": {
+      "key": "rezero",
+      "name": "ريزيرو",
+      "primary": "#7c3aed",
+      "accent": "#a78bfa",
+      "bgStart": "#040312",
+      "bgEnd": "#0c0b22",
+      "card": "#111226",
+      "text": "#ede9fe",
+      "bannerFile": "rezero.png",
+      "spinPage": "rezero"
+    },
+    "chainsaw": {
+      "key": "chainsaw",
+      "name": "تشينسو",
+      "primary": "#dc2626",
+      "accent": "#f87171",
+      "bgStart": "#120909",
+      "bgEnd": "#1a0f0f",
+      "card": "#1b1212",
+      "text": "#f3f4f6",
+      "bannerFile": "chainsaw.png",
+      "spinPage": "chainsaw"
+    }
+  }
+}

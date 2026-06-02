@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1779540628643,
+    "title": "♟️ Chess Arena — Now Available!",
+    "body": "The newest game has arrived! Challenge your friends in intense chess battles, climb the rankings, and prove your strategy skills. Enter the Chess Arena now and become the ultimate grandmaster in the Discord server!",
+    "tag": "Game",
+    "tagColor": "#10b981",
+    "date": "2026-05-23"
+  },
+  {
+    "id": 1,
+    "title": "🎉 Black Market Auction — New Season!",
+    "body": "A brand new season of the Black Market Auction is live! Rare items including the Legendary Warrior Sword and the Blue Diamond are up for grabs. Place your bids now in the Discord server.",
+    "date": "2026-05-10",
+    "tag": "Event",
+    "tagColor": "#E94560"
+  },
+  {
+    "id": 3,
+    "title": "🃏 Texas Hold'em Poker Now Available",
+    "body": "Texas Hold'em Poker is now live in the casino! Challenge other players and prove your poker skills. Use !texpoker to start a game.",
+    "date": "2026-05-06",
+    "tag": "Game",
+    "tagColor": "#00b894"
+  },
+  {
+    "id": 4,
+    "title": "🔐 Provably Fair System Update",
+    "body": "The Provably Fair system has been upgraded. All games now log server seed hashes before results are revealed. Verify any game on this website using the Verifier tool.",
+    "date": "2026-05-04",
+    "tag": "Security",
+    "tagColor": "#6c5ce7"
+  }
+]

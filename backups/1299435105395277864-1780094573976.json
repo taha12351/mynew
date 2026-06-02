@@ -1,0 +1,1621 @@
+{
+  "name": "Diamond Casino",
+  "icon": "https://cdn.discordapp.com/icons/1299435105395277864/f397461e7f8b1e6807b9765e359827ef.webp?size=4096",
+  "roles": [
+    {
+      "id": "1332070192918040608",
+      "name": "Diamond Casino",
+      "color": 207171,
+      "permissions": "134217736",
+      "hoist": true,
+      "mentionable": false,
+      "position": 28
+    },
+    {
+      "id": "1502688214148714566",
+      "name": "Diamond Owner",
+      "color": 920845,
+      "permissions": "8",
+      "hoist": true,
+      "mentionable": false,
+      "position": 27
+    },
+    {
+      "id": "1508961802120204418",
+      "name": "Diamond Co Owner",
+      "color": 15844367,
+      "permissions": "8",
+      "hoist": true,
+      "mentionable": false,
+      "position": 26
+    },
+    {
+      "id": "1332068766024208398",
+      "name": "Xenon",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 25
+    },
+    {
+      "id": "1315795781839753216",
+      "name": "ProBot ✨",
+      "color": 0,
+      "permissions": "2080374975",
+      "hoist": false,
+      "mentionable": false,
+      "position": 24
+    },
+    {
+      "id": "1316826377416212503",
+      "name": "Ticket Tool",
+      "color": 0,
+      "permissions": "2416045072",
+      "hoist": false,
+      "mentionable": false,
+      "position": 23
+    },
+    {
+      "id": "1308142261481242698",
+      "name": "Apollo Bot",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 22
+    },
+    {
+      "id": "1308147837053173881",
+      "name": "DealerBot",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 21
+    },
+    {
+      "id": "1308147878900011142",
+      "name": "InviteLogger",
+      "color": 0,
+      "permissions": "1342500089",
+      "hoist": false,
+      "mentionable": false,
+      "position": 20
+    },
+    {
+      "id": "1308160317607641233",
+      "name": "توزيع ملايين",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 19
+    },
+    {
+      "id": "1316831868540157993",
+      "name": "Messi",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 18
+    },
+    {
+      "id": "1322476127717032004",
+      "name": "Ronaldo",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 17
+    },
+    {
+      "id": "1322478648879616065",
+      "name": "Nadeko",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 16
+    },
+    {
+      "id": "1322603421475274826",
+      "name": "Ahmed",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 15
+    },
+    {
+      "id": "1330639406717206571",
+      "name": "nora",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 14
+    },
+    {
+      "id": "1308159237423370281",
+      "name": "Server Booster",
+      "color": 16023551,
+      "permissions": "2221707229466113",
+      "hoist": true,
+      "mentionable": false,
+      "position": 13
+    },
+    {
+      "id": "1332070215697170553",
+      "name": "#1",
+      "color": 526087,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 12
+    },
+    {
+      "id": "1332070216351612929",
+      "name": "BlackListed",
+      "color": 591623,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 11
+    },
+    {
+      "id": "1332070217685401611",
+      "name": "Premium",
+      "color": 9066498,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": true,
+      "position": 10
+    },
+    {
+      "id": "1333796776968196146",
+      "name": "Diamond User",
+      "color": 535363,
+      "permissions": "0",
+      "hoist": true,
+      "mentionable": false,
+      "position": 9
+    },
+    {
+      "id": "1502684024248996012",
+      "name": "Luck Casino",
+      "color": 0,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 8
+    },
+    {
+      "id": "1332102532289531975",
+      "name": "تتحداني 50م ل 100م ؟",
+      "color": 0,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 7
+    },
+    {
+      "id": "1332102323488428084",
+      "name": "تتحداني 5م ل 10م ؟",
+      "color": 0,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 6
+    },
+    {
+      "id": "1332102472252002386",
+      "name": "تتحداني 10م ل 20م ؟",
+      "color": 0,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 5
+    },
+    {
+      "id": "1332102568989425790",
+      "name": "تتحداني 500م ل 1b ؟",
+      "color": 0,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 4
+    },
+    {
+      "id": "1333546314725593312",
+      "name": "nouveau rôle",
+      "color": 0,
+      "permissions": "0",
+      "hoist": false,
+      "mentionable": false,
+      "position": 3
+    },
+    {
+      "id": "1504230085094543552",
+      "name": "MY BOT",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 2
+    },
+    {
+      "id": "1505467640196501638",
+      "name": "Super Control",
+      "color": 0,
+      "permissions": "8",
+      "hoist": false,
+      "mentionable": false,
+      "position": 1
+    }
+  ],
+  "channels": [
+    {
+      "id": "1332076122099155035",
+      "name": "🔄｜withdraw・log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1505566370253766818",
+      "name": "🎲｜𝖱𝗈𝗈𝗆・1",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070374216699967",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "996886359996375170",
+          "allow": "3072",
+          "deny": "0",
+          "type": "member"
+        },
+        {
+          "id": "1299435105395277864",
+          "allow": "3213312",
+          "deny": "6505530432",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1508548476655374436",
+      "name": "نظام・الريوارد｜",
+      "type": "GUILD_TEXT",
+      "parentId": "1508549558026764299",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "274877909056",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502679613892202716",
+      "name": "💬｜chat",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070380025675858",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3211264",
+          "deny": "6505529408",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1508549558026764299",
+      "name": "R E W A R D S",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1333770841204457573",
+      "name": "🎮｜rent・room",
+      "type": "GUILD_TEXT",
+      "parentId": "1333770611973161011",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237647360",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070395318243329",
+      "name": "✨｜𝖲tart",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070365475897465",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147649600",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332100766252404809",
+      "name": "🔔｜notifications",
+      "type": "GUILD_TEXT",
+      "parentId": "1332100847546531840",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147649600",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1505554826354757732",
+      "name": "⚽・bet",
+      "type": "GUILD_TEXT",
+      "parentId": "1505554736189931650",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237647360",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1333770165850210344",
+      "name": "🏆｜vip・1",
+      "type": "GUILD_TEXT",
+      "parentId": "1333770032634663016",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3212288",
+          "deny": "385267959889",
+          "type": "role"
+        },
+        {
+          "id": "1332070217685401611",
+          "allow": "3072",
+          "deny": "0",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070368168382608",
+      "name": "owner-room",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "1024",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070404776394853",
+      "name": "🎫｜ticket-support",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070369246314577",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147649600",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502681483507405051",
+      "name": "🥇│all-bets",
+      "type": "GUILD_TEXT",
+      "parentId": "1502681379782131882",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237647360",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070362023989319",
+      "name": "discord.gg/Dim-c",
+      "type": "GUILD_VOICE",
+      "parentId": null,
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "1024",
+          "deny": "1048576",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070406189744128",
+      "name": "📤｜𝖶𝗂𝗍𝗁𝖽𝗋𝖺𝗐",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070370269855916",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237647360",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332077211229880340",
+      "name": "⚡｜redeem-codes",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070369246314577",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147649600",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070365475897465",
+      "name": "・s t a r t e d",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147650624",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070406940528671",
+      "name": "💰｜𝖳ransactions",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070370269855916",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "2048",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1508182758575575201",
+      "name": "🎲｜𝖱𝗈𝗈𝗆・1",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070374216699967",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3213312",
+          "deny": "6505529408",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1508549738860122293",
+      "name": "تسليمات・الريوارد｜",
+      "type": "GUILD_TEXT",
+      "parentId": "1508549558026764299",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "274877909056",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502679463660490783",
+      "name": "🏧｜deposit・log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1505554807291908108",
+      "name": "📋・bet・log",
+      "type": "GUILD_TEXT",
+      "parentId": "1505554736189931650",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237647360",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502677756549267537",
+      "name": "❤｜feedback",
+      "type": "GUILD_TEXT",
+      "parentId": "1332100847546531840",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "67584",
+          "deny": "2147647552",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502679523488174171",
+      "name": "🤖｜commands",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070380025675858",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3211264",
+          "deny": "6505529408",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332105100344426556",
+      "name": "rules",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "3072",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1333770442674016339",
+      "name": "🏆｜vip・2",
+      "type": "GUILD_TEXT",
+      "parentId": "1333770032634663016",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3212288",
+          "deny": "385267959889",
+          "type": "role"
+        },
+        {
+          "id": "1332070217685401611",
+          "allow": "3072",
+          "deny": "0",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502681450992894184",
+      "name": "✅│provably-fair-log",
+      "type": "GUILD_TEXT",
+      "parentId": "1502681379782131882",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237647360",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070398707368077",
+      "name": "📢｜𝖭ews",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070365475897465",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147650624",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070413123195063",
+      "name": "🎲｜𝖱𝗈𝗈𝗆・2",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070374216699967",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3213312",
+          "deny": "6505529408",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332105100344426559",
+      "name": "moderator-only",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "1024",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1333770464027344919",
+      "name": "🏆｜vip・3",
+      "type": "GUILD_TEXT",
+      "parentId": "1333770032634663016",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3212288",
+          "deny": "385267959889",
+          "type": "role"
+        },
+        {
+          "id": "1332070217685401611",
+          "allow": "3072",
+          "deny": "0",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070369246314577",
+      "name": "・S U P P O R T",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147650624",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502680404820234371",
+      "name": "♻｜𝖴pdates",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070365475897465",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147649600",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502681050260705370",
+      "name": "📩｜request",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070370269855916",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237647360",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1508220630800007360",
+      "name": "📈・trade",
+      "type": "GUILD_TEXT",
+      "parentId": "1505554736189931650",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237647360",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502679336359297184",
+      "name": "🏦｜link・unlink・log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1333544418040483992",
+      "name": "🎁｜boxes",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070369246314577",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147649600",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1338633803630903406",
+      "name": "👥｜create・team",
+      "type": "GUILD_TEXT",
+      "parentId": "1332100847546531840",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147650624",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332725112348086316",
+      "name": "تسليمات",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "1024",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1338930235529232515",
+      "name": "👑｜top・teams",
+      "type": "GUILD_TEXT",
+      "parentId": "1332100847546531840",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147650624",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502679785225064518",
+      "name": "🎲｜𝖱𝗈𝗈𝗆・3",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070374216699967",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3213312",
+          "deny": "6505529408",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070452390133772",
+      "name": "🚀｜𝖡oost",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070365475897465",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147649600",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070370269855916",
+      "name": "・M O N E Y",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1502679360841187338",
+      "name": "💳｜bank・withdraw",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332105193143271445",
+      "name": "🤔｜faq",
+      "type": "GUILD_FORUM",
+      "parentId": "1332070365475897465",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "277025572928",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1355977271629971597",
+      "name": "🔐｜hack・vault",
+      "type": "GUILD_TEXT",
+      "parentId": "1332100847546531840",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147650624",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1333830985128611840",
+      "name": "inv",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "1024",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502679434648617171",
+      "name": "📅｜daily・log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332100847546531840",
+      "name": "・R O L E S",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1355977364668022925",
+      "name": "📜｜vault・log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332100847546531840",
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147650624",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1505565982834425947",
+      "name": "bonus-log",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "1024",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502679496073937137",
+      "name": "➕｜add・coins",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502681379782131882",
+      "name": "livebets",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1356010752414060716",
+      "name": "🎡｜wheel・game",
+      "type": "GUILD_TEXT",
+      "parentId": "1332100847546531840",
+      "position": 6,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147650624",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1507705505374670998",
+      "name": "log",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 6,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "1024",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502681590067757167",
+      "name": "uno-log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 6,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1505554736189931650",
+      "name": "・B E T T I N G",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 6,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1356014233061560510",
+      "name": "📜｜wheel・log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332100847546531840",
+      "position": 7,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "65536",
+          "deny": "2147650624",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502681637475848201",
+      "name": "blackmarket-log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 7,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332723631343796304",
+      "name": "حرق",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 7,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1215176262759227453",
+          "allow": "3072",
+          "deny": "0",
+          "type": "member"
+        },
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "274877910080",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070374216699967",
+      "name": "・C A S I N O",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 7,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3213312",
+          "deny": "6505530432",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1505555023914864771",
+      "name": "بونص",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 8,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "1024",
+          "deny": "2048",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1502681687581003910",
+      "name": "ability-log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 8,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1333770032634663016",
+      "name": "・V I P",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 8,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1333770611973161011",
+      "name": "・P R I V A T E",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 9,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1505600232618987731",
+      "name": "site-log",
+      "type": "GUILD_TEXT",
+      "parentId": "1332070376531820564",
+      "position": 9,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "309237648384",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070380025675858",
+      "name": "・g e n e r a l",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 10,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3214336",
+          "deny": "6505529408",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332070376531820564",
+      "name": "・GENERAL LOG",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 11,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "3214336",
+          "deny": "6505529408",
+          "type": "role"
+        }
+      ]
+    },
+    {
+      "id": "1332106890187898880",
+      "name": "ticket",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 12,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1299435105395277864",
+          "allow": "0",
+          "deny": "1024",
+          "type": "role"
+        }
+      ]
+    }
+  ]
+}

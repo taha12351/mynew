@@ -1,0 +1,91 @@
+[
+  {
+    "userId": "1206272245417246750",
+    "username": "igd8",
+    "amount": 95,
+    "bankName": "Bank",
+    "status": "completed",
+    "serverId": "1303780835970777211",
+    "channelId": "1435621229154275389",
+    "timestamp": 1779535463483
+  },
+  {
+    "userId": "1206272245417246750",
+    "username": "igd8",
+    "amount": 475,
+    "bankName": "Bank",
+    "status": "completed",
+    "serverId": "1303780835970777211",
+    "channelId": "1435347738387550228",
+    "timestamp": 1779535104447
+  },
+  {
+    "userId": "1206272245417246750",
+    "username": "igd8",
+    "amount": 475,
+    "bankName": "Bank",
+    "status": "completed",
+    "serverId": "1303780835970777211",
+    "channelId": "1435347738387550228",
+    "timestamp": 1779535058263
+  },
+  {
+    "userId": "1206272245417246750",
+    "username": "igd8",
+    "amount": 475,
+    "bankName": "Bank",
+    "status": "completed",
+    "serverId": "1303780835970777211",
+    "channelId": "1435621229154275389",
+    "timestamp": 1779534964409
+  },
+  {
+    "userId": "1206272245417246750",
+    "username": "igd8",
+    "amount": 475,
+    "bankName": "Bank",
+    "status": "completed",
+    "serverId": "1303780835970777211",
+    "channelId": "1443338564250370148",
+    "timestamp": 1779534931189
+  },
+  {
+    "userId": "1206272245417246750",
+    "username": "igd8",
+    "amount": 95,
+    "bankName": "Bank",
+    "status": "completed",
+    "serverId": "1303780835970777211",
+    "channelId": "1435621229154275389",
+    "timestamp": 1779532335234
+  },
+  {
+    "userId": "1206272245417246750",
+    "username": "igd8",
+    "amount": 114,
+    "bankName": "Bank",
+    "status": "completed",
+    "serverId": "1303780835970777211",
+    "channelId": "1435621229154275389",
+    "timestamp": 1779486629219
+  },
+  {
+    "userId": "1208842012464390226",
+    "username": "youjii1251",
+    "amount": 100,
+    "bankName": "Bank",
+    "status": "completed",
+    "serverId": "1303780835970777211",
+    "channelId": "1435347738387550228",
+    "timestamp": 1779485863009
+  },
+  {
+    "userId": "1208842012464390226",
+    "username": "unknown",
+    "amount": 10,
+    "bankName": "Bank",
+    "status": "no_pending_request",
+    "serverId": "1303780835970777211",
+    "timestamp": 1779485510662
+  }
+]
